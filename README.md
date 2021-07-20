@@ -1,0 +1,1 @@
+This is Sand's first git project!
